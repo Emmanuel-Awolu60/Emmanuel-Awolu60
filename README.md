@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://dev.to/emmanuelawolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/emmanuelawolu" height="30" width="40" /></a>
 <a href="https://twitter.com/the_emmanuel_ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_emmanuel_ao" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel awolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel awolu" height="30" width="40" /></a>
 </p>
