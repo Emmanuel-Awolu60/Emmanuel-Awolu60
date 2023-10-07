@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Emmanuel A.O</h1>
-<h3 align="center">A passionate FrontEnd Engineer👨🏾‍💻 (React & TS) - Technical Writer📚.</h3>
+<h3 align="center">A Passionate FrontEnd Engineer👨🏾‍💻 (React & TS) - Technical Writer📚.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-awolu60&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-awolu60" /> </p>
 
 <p align="left"> <a href="https://twitter.com/the_emmanuel_ao" target="blank"><img src="https://img.shields.io/twitter/follow/the_emmanuel_ao?logo=twitter&style=for-the-badge" alt="the_emmanuel_ao" /></a> </p>
-
-- 🔭 I’m currently working on **Next js**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 📝 I regularly write articles on [https://medium.com/@emmanuelawolu8](https://medium.com/@emmanuelawolu8)
 
 - 💬 Ask me about any thing tech **emmanuelawolu8@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
