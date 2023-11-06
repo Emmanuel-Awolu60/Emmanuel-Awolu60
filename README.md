@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/the_emmanuel_ao" target="blank"><img src="https://img.shields.io/twitter/follow/the_emmanuel_ao?logo=twitter&style=for-the-badge" alt="the_emmanuel_ao" /></a> </p>
 
+- I also love working with the **developer communities on a global scale, building cool projects, writing technical articles, and speaking.**
+
 - 📝 I regularly write articles on [https://medium.com/@emmanuelawolu8](https://medium.com/@emmanuelawolu8)
 
 - 💬 Ask me about any thing tech **emmanuelawolu8@gmail.com**
