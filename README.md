@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel A.O</h1>
-<h3 align="center">A Passionate FrontEnd Engineer👨🏾‍💻 (React & TS) - Technical Writer📚.</h3>
+<h3 align="center">A Front-end Software Engineer & Technical writing with a passion for problem-solving and learning.</h3>
 
 <p align="left"> <a href="https://twitter.com/the_emmanuel_ao" target="blank"><img src="https://img.shields.io/twitter/follow/the_emmanuel_ao?logo=twitter&style=for-the-badge" alt="the_emmanuel_ao" /></a> </p>
 
