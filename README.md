@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel A.O</h1>
 <h3 align="center">A Front-end Software Engineer & Technical writing with a passion for problem-solving and learning.</h3>
 
-<p align="left"> <a href="https://twitter.com/emmanuel_awolu" target="blank"><img src="https://img.shields.io/twitter/follow/emmanuel_awolu?logo=twitter&style=for-the-badge" alt="emmanuel_awolu" /></a> </p>
-
-- I also love working with the **developer communities on a global scale, building cool projects, writing technical articles, and speaking.**
+- I love working with the **developer communities on a global scale, building cool projects, writing technical articles, and speaking.**
 
 - 📝 I regularly write articles on [https://medium.com/@emmanuelawolu8](https://medium.com/@emmanuelawolu8)
 
