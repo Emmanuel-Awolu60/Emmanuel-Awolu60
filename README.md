@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Emmanuel A.O</h1>
+<h1 align="center">Hi, I'm Emmanuel A.O</h1>
 <h3 align="center">A Front-end Software Engineer & Technical writing with a passion for problem-solving and learning.</h3>
 
 - I love working with the **developer communities on a global scale, building cool projects, writing technical articles, and speaking.**
 
 - 📝 I regularly write articles on [https://medium.com/@emmanuelawolu8](https://medium.com/@emmanuelawolu8)
 
-- 💬 Ask me about any thing tech **emmanuelawolu8@gmail.com**
+- 📫 How to reach me **emmanuelawolu8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emmanuel_awolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmanuel_awolu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel awolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel awolu" height="30" width="40" /></a>
-<a href="https://instagram.com/emmanuelawolu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuelawolu1" height="30" width="40" /></a>
+<a href="https://instagram.com/emmanuel.awolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel.awolu" height="30" width="40" /></a>
 <a href="https://hashnode.com/@emmanuel60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@emmanuel60" height="30" width="40" /></a>
 </p>
 
