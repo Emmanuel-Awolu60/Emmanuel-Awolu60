@@ -3,7 +3,7 @@
 
 - I enjoy working with **developer communities on a global scale, creating cool projects, writing tech articles.**
 
-- 📝 I regularly write articles on [https://medium.com/@emmanuelawolu8](https://medium.com/@emmanuelawolu8)
+- 📝 I regularly write articles on [https://emmanuelao.hashnode.dev/](https://emmanuelao.hashnode.dev/)
 
 - 📫 How to reach me **emmanuelawolu8@gmail.com**
 
