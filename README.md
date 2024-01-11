@@ -13,6 +13,7 @@
 <a href="https://linkedin.com/in/emmanuel awolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel awolu" height="30" width="40" /></a>
 <a href="https://instagram.com/emmanuel.awolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel.awolu" height="30" width="40" /></a>
 <a href="https://hashnode.com/@emmanuel60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@emmanuel60" height="30" width="40" /></a>
+<a href="https://medium.com/@emmanuelawolu8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emmanuelawolu8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
