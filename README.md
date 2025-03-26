@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Emmanuel A.O</h1>
-<h3 align="center">A Front-end Engineer & Technical writing with a passion for problem-solving and learning.</h3>
+<h3 align="center">A Back-end Engineer & Technical writing with a passion for problem-solving and learning.</h3>
 
 - I enjoy working with **developer communities on a global scale, creating cool projects, writing tech articles.**
 
